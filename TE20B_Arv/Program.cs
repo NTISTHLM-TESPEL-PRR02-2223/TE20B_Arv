@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Student s = new Student();
+Console.WriteLine(s.Name);
+Console.WriteLine(s.School);
+
+Console.ReadLine();
